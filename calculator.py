@@ -1,6 +1,3 @@
-import math, random
-
-
 def add(a, b):
     return a + b
 
