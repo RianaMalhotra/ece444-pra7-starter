@@ -1,5 +1,8 @@
-def add( a,b ):
- return( a+b )
+import math, random
+
+
+def add(a, b):
+    return a + b
 
 
 def record(value, history=None):
